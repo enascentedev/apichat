@@ -45,7 +45,8 @@ apiChatGpt
 │   │   │   │   │   ├── demo
 │   │   │   │   │   │   ├── PrimeiroExemploChat.java
 ├── target
-    ├── ... (Arquivos compilados e empacotados)
+│   ├── ... (Arquivos compilados e empacotados)
+
 
 
 
