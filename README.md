@@ -34,28 +34,19 @@ O propósito central deste projeto é realizar uma série de testes exploratóri
 Os insights e configurações afinadas aqui serão posteriormente incorporados em projetos mais complexos que demandam interações naturais e inteligentes com usuários, como chatbots, assistentes virtuais e interfaces de usuário conversacionais. A meta é aproveitar a capacidade de processamento de linguagem natural de última geração para criar aplicações mais intuitivas, responsivas e úteis.
 
 
-
 ## Estrutura do Projeto
 
 apiChatGpt
-│
-└───src
-    │
-    └───main
-        │
-        └───java
-            │
-            └───com
-                │
-                └───example
-                    │
-                    └───demo
-                        │
-                        └───PrimeiroExemploChat.java
-│
-└───target
-    │
-    └─── ... (Arquivos compilados e empacotados)
+├── src
+│   ├── main
+│   │   ├── java
+│   │   │   ├── com
+│   │   │   │   ├── example
+│   │   │   │   │   ├── demo
+│   │   │   │   │   │   ├── PrimeiroExemploChat.java
+├── target
+    ├── ... (Arquivos compilados e empacotados)
+
 
 
 O arquivo `PrimeiroExemploChat.java` contém o código para enviar mensagens e receber respostas da API do Chat GPT.
