@@ -36,17 +36,27 @@ Os insights e configurações afinadas aqui serão posteriormente incorporados e
 
 ## Estrutura do Projeto
 
+<pre>
 apiChatGpt
+│
 ├── src
+│   │
 │   ├── main
+│   │   │
 │   │   ├── java
+│   │   │   │
 │   │   │   ├── com
+│   │   │   │   │
 │   │   │   │   ├── example
+│   │   │   │   │   │
 │   │   │   │   │   ├── demo
+│   │   │   │   │   │   │
 │   │   │   │   │   │   ├── PrimeiroExemploChat.java
+│
 ├── target
+│   │
 │   ├── ... (Arquivos compilados e empacotados)
-
+</pre>
 
 
 
