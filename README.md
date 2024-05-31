@@ -40,18 +40,23 @@ Os insights e configurações afinadas aqui serão posteriormente incorporados e
 apiChatGpt
 │
 └───src
-│ └───main
-│ └───java
-│ └───com
-│ └───example
-│ └───demo
-│ │ PrimeiroExemploChat.java
+    │
+    └───main
+        │
+        └───java
+            │
+            └───com
+                │
+                └───example
+                    │
+                    └───demo
+                        │
+                        └───PrimeiroExemploChat.java
 │
 └───target
-└─── ... (Arquivos compilados e empacotados)
+    │
+    └─── ... (Arquivos compilados e empacotados)
 
-perl
-Copy code
 
 O arquivo `PrimeiroExemploChat.java` contém o código para enviar mensagens e receber respostas da API do Chat GPT.
 
